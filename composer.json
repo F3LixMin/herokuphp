@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Felix Min",
+        "email": "21008740@rp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
